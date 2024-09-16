@@ -60,8 +60,7 @@ body {
     flex-direction: column;
     gap: 20px;
     align-items: center;
-    width: 100%;
-    max-width: 800px;
+    width: 80%;
     padding: 20px;
     margin: 0 auto;
 }
@@ -69,7 +68,6 @@ body {
     border: 2px solid #535353;
     border-radius: 15px;
     padding: 30px;
-    width: 80%;
     background-color: 	#535353;
     margin: 20px auto;
 }
