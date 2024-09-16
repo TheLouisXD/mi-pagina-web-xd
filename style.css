@@ -44,7 +44,7 @@ body {
 }
 
 .nav-links a:hover {
-    color: green;
+    color: #1db954;
 }
 
 .logo {
@@ -54,6 +54,17 @@ body {
 }
 
 /* Tarjetas */
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+}
 .card {
     border: 2px solid #535353;
     border-radius: 15px;
